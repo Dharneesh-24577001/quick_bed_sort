@@ -10,5 +10,5 @@ Hello sir, Dharneesh here.
 **To run the program:**
    
 6. A script file named "quick_sort.sh" was created with all the neccessary programs, which also has the python program included inside it.
-7. The snakemake file  used is "smt.smk" and a folder called "script_for_sort" was created tp save the **sh** file named "to_sort.sh"
+7. The snakemake file  used is "smt.smk" and a folder called "script_for_sort" was created to save the **sh** file named "to_sort.sh"
 9. "quick_sort.sh" was activated using chmod +x and the script is run (sh quick_sort.sh)to get the O/P.
