@@ -2,8 +2,8 @@ Hello sir, Dharneesh here.
 
 **Instructions for PROJ 01: Quick_bed_sort**
 
-1. first files nameing **demo.tsv** and **file_paths.tsv** were created to read the file paths of the bed file.
-2.a linux command was used to create files for shuf.a/shuf.b.bed.gz files.
+1. First, files namely **demo.tsv** and **file_paths.tsv** were created to read the file paths of the bed file.
+2. A linux command (awk) was used to create files for shuf.a/shuf.b.bed.gz files.
 3. Then a python program with snakemake rules were written to run through the file and put them in to seperate files.
 4. the sh file under the snakemake took care of the sorting part
 
