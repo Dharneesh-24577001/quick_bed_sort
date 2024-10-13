@@ -1,4 +1,3 @@
-Hello sir, Dharneesh here.
 
 **Instructions for PROJ 01: Quick_bed_sort**
 
