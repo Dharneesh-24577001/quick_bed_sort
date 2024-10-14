@@ -4,7 +4,6 @@ import pandas as pd
 run_df = pd.read_csv("file_paths.tsv", sep = "\t", header = "infer" )
 demo_df = pd.read_csv("demo.tsv", sep = "\t", header= "infer")
 
-print(demo_df)
 
 run_df.index= run_df["run"]
 demo_df.index = demo_df["demo"]
