@@ -1,8 +1,8 @@
 import sys
 import pandas as pd
 
-run_df = pd.read_csv("datas/file_paths.tsv", sep = "\t", header = "infer" )
-demo_df = pd.read_csv("datas/demo.tsv", sep = "\t", header= "infer")
+run_df = pd.read_csv("file_paths.tsv", sep = "\t", header = "infer" )
+demo_df = pd.read_csv("demo.tsv", sep = "\t", header= "infer")
 
 print(demo_df)
 
